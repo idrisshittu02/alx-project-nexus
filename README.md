@@ -76,7 +76,7 @@ Through hands-on projects and intensive practice, I became proficient in:
 - Learned Docker fundamentals and container lifecycle
 - Created Dockerfiles for consistent deployment environments
 - Implemented multi-stage builds for optimization
-- Gained experience with Docker Compose for multi-service applications
+- Gained experience with Docker Compose for multi-service applications.
 
 **Orchestration with Kubernetes**
 - Understood Kubernetes architecture and components
