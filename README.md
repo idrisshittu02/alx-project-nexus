@@ -311,8 +311,8 @@ alx-project-nexus/
 
 I'm always eager to collaborate and share knowledge:
 - **Discord**: Find me in `#ProDevProjectNexus` channel
-- **GitHub**: Check out my projects and contributions
-- **LinkedIn**: Let's connect professionally
+- **GitHub**: https://github.com/idrisshittu02/
+- **LinkedIn**: https://www.linkedin.com/in/idris-shittu02/
 
 ---
 
