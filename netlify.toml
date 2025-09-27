@@ -1,0 +1,7 @@
+[build]
+  base = "Cartify"
+  command = "npm run build"
+  publish = "Cartify/.next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
