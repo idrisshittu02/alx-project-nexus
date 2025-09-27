@@ -1,12 +1,16 @@
+import React from "react";
 
+type ButtonProps = {
+  className?: string;
+  label: string;
+};
 
-
-const Button = ({className, label}) => {
-    return (
-        <button className={className} >
-            {label}
-        </button>
-    )
-}
+const Button: React.FC<ButtonProps> = ({ className, label }) => {
+  return (
+    <button className={className}>
+      {label}
+    </button>
+  );
+};
 
 export default Button;
