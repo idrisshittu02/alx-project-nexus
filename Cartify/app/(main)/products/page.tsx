@@ -28,7 +28,7 @@ export default function ProductsPage() {
         <h1 className="text-4xl font-extrabold text-gray-900 mb-4">Our Products</h1>
         <p className="text-lg text-gray-700">
           Explore a wide selection of quality items at unbeatable prices.  
-          Shop with <span className="font-semibold">GoCart</span> today!
+          Shop with <span className="font-semibold">CaRTiFY</span> today!
         </p>
       </div>
 
