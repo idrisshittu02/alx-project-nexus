@@ -20,9 +20,12 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-md py-4 px-6 flex items-center justify-between">
       <div className="flex items-center space-x-8">
-        <Link href="/" className="text-2xl font-bold text-blue-600">
-          GoCart
-        </Link>
+        <Link
+  href="/"
+  className="text-3xl font-extrabold bg-gradient-to-r from-purple-500 via-pink-500 to-yellow-500 bg-clip-text text-transparent hover:scale-110 hover:rotate-1 transition-transform duration-300 ease-out"
+>
+  CaRTiFY
+</Link>
         <ul className="flex space-x-6">
           {navLinks.map((link) => (
             <li key={link.name}>
