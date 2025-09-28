@@ -69,12 +69,10 @@ const Navbar = () => {
         {/* ✅ New Backend Check Button */}
         <button
   onClick={checkBackend}
-  className="flex items-center space-x-2 px-4 py-2 rounded-md font-semibold text-gray-800
-             border-2 border-transparent bg-white relative
-             bg-clip-padding 
-             before:absolute before:inset-0 before:rounded-md before:p-[2px]
-             before:bg-gradient-to-r before:from-purple-500 before:via-pink-500 before:to-yellow-500
-             before:-z-10 hover:scale-105 transition-transform duration-300"
+  className="flex items-center space-x-2 px-4 py-2 rounded-md font-semibold text-gray-800 
+             relative transition-transform duration-300 hover:scale-105
+             bg-white border-2 border-transparent
+             bg-gradient-to-r from-purple-500 via-pink-500 to-yellow-500 bg-clip-border"
 >
   <span
     className={`h-3 w-3 rounded-full ${
