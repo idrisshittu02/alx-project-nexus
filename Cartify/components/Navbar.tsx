@@ -22,7 +22,7 @@ const Navbar = () => {
 
   const checkBackend = async () => {
     try {
-      const res = await fetch("/api/health");
+      const res = await fetch("/api/status");
       if (res.ok) {
         setBackendStatus("up");
       } else {
