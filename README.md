@@ -174,25 +174,6 @@ Through hands-on projects and intensive practice, I became proficient in:
 
 **Skills Demonstrated**: API design, database optimization, security implementation, caching strategies
 
-### Project 2: Real-time Chat Application Backend
-**Technologies Used**: Node.js, WebSocket, RabbitMQ, MongoDB
-**What I Built**:
-- Real-time messaging system with WebSocket connections
-- Message queue for reliable delivery
-- User presence tracking and notifications
-- File upload and sharing capabilities
-
-**Skills Demonstrated**: Real-time communication, message queuing, NoSQL database design
-
-### Project 3: Microservices Blog Platform
-**Technologies Used**: Python, Docker, Kubernetes, GraphQL, PostgreSQL
-**What I Built**:
-- User service for authentication and profiles
-- Content service for blog posts and comments
-- Notification service for user alerts
-- API Gateway for unified access
-
-**Skills Demonstrated**: Microservices architecture, container orchestration, GraphQL implementation
 
 ## Best Practices I've Adopted
 
@@ -201,18 +182,6 @@ Through hands-on projects and intensive practice, I became proficient in:
 - **Test-Driven Development**: Comprehensive unit and integration testing
 - **Code Reviews**: Collaborative development and knowledge sharing
 - **Documentation**: Clear API documentation and system architecture docs
-
-### Database Management Practices
-- **Schema Design**: Proper normalization and relationship modeling
-- **Migration Strategy**: Version-controlled database changes
-- **Backup & Recovery**: Regular backups and disaster recovery planning
-- **Performance Monitoring**: Query analysis and optimization
-
-### Security Practices I Follow
-- **Input Validation**: Sanitize and validate all user inputs
-- **Authentication**: Multi-factor authentication where appropriate
-- **Authorization**: Principle of least privilege access
-- **Data Protection**: Encryption for sensitive data storage and transmission
 
 ### DevOps Practices I've Learned
 - **Infrastructure as Code**: Automated infrastructure provisioning
@@ -283,29 +252,7 @@ Active participation in `#ProDevProjectNexus` channel:
 - **Cloud Platforms**: Gaining expertise in AWS, GCP, and Azure services
 - **System Design**: Advanced patterns for high-scale distributed systems
 
-## Repository Structure
 
-```
-alx-project-nexus/
-├── README.md (this file)
-├── projects/
-│   ├── ecommerce-api/
-│   ├── chat-application/
-│   └── blog-microservices/
-├── learnings/
-│   ├── python-advanced/
-│   ├── database-optimization/
-│   ├── microservices-patterns/
-│   └── security-implementations/
-├── challenges-solutions/
-│   ├── performance-issues/
-│   ├── deployment-problems/
-│   └── integration-challenges/
-└── resources/
-    ├── documentation/
-    ├── best-practices/
-    └── useful-links/
-```
 
 ## Connect with Me
 
