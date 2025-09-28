@@ -12,7 +12,7 @@ export default function HomePage() {
       {/* CTA Section (optional, can keep or remove since Hero has a button) */}
       <div className="text-center space-y-6 max-w-2xl mt-16">
         <h1 className="text-5xl font-extrabold text-blue-600">
-          Welcome to <span className="text-gray-800">GoCart</span>
+          Welcome to <span className="text-gray-800">CaRTiFY</span>
         </h1>
         <p className="text-lg text-gray-600">
           Your one-stop shop for everything you need. <br />
